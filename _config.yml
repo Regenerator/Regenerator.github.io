@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Roman Klokov"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Roman Klokov"
-description              : &description "Post-doc Researcher at École Polytechnique"
+description              : &description "Postdoc at École Polytechnique"
 url                      : https://regenerator.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Regenerator/Regenerator.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Roman Klokov"
   pronouns         : # example: "she/her"  
-  bio              : "Post-doc researcher working on deep learning for geometric data"
+  bio              : "Postdoctoral researcher working on deep learning for geometric data."
   location         : "Paris, France"
   employer         : "École Polytechnique"
   uri              : # URL
@@ -77,12 +77,14 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
+  # books:
+  #   title: 'Books'
+  # manuscripts:
+  #   title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
+  workshops:
+    title: 'Workshop Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

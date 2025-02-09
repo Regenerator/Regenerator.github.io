@@ -1,13 +1,19 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Roman Klokov"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+[Scholar](https://scholar.google.com/citations?user=LF-9iVgAAAAJ)&emsp;[GitHub](https://github.com/Regenerator)&emsp;[CV](files/CV.pdf)
+
+Currently I am open to consider any temporary or permanent working opportunities in France (or remote). Until recently I was a postdoctoral researcher working with [Maks Ovsjanikov](https://www.lix.polytechnique.fr/~maks/) at École Polytechnique, Paris, France, where I was a member of the [GeomeriX](https://team.inria.fr/geomerix/) team. I recieved my PhD in Université Grenoble Alpes in December 2021. I was hosted by Inria Grenoble, supervised by [Jakob Verbeek](https://scholar.google.com/citations?user=oZGA-rAAAAAJ) and [Edmond Boyer](https://scholar.google.com/citations?user=bxcnXn8AAAAJ) and was a member of [Thoth](https://team.inria.fr/thoth/) and [Morpheo](https://team.inria.fr/morpheo/) teams.
+
+Broadly speaking, my research can be described as application of deep learning techniques to geometric 3D data, including multimodal data scenarios (geometry and appearance). I have worked on numerous applications in this domain, including differentiable rendering, differentiable shape meshing, generative modeling of 3D data in various representations, recognition of point clouds (classification, segmentation, retrieval). More precisely, I can underline three distinct areas of interest: 3D data representations suitable for deep learning and corresponding neural network architectures; probabilistic modeling for 3D data generation and inference-based reconstruction; neural differentiable applications for 3D data representations.
+
+<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
 ======
@@ -46,4 +52,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
